@@ -1,0 +1,5 @@
+/home/asalnikov/src/stm32f3-discovery-template-on-truestudio/include
+/home/asalnikov/src/stm32f3-discovery-template-on-truestudio/lib/CMSIS/Device/ST/STM32F30x/Include
+/home/asalnikov/src/stm32f3-discovery-template-on-truestudio/lib/CMSIS/Include
+/home/asalnikov/src/stm32f3-discovery-template-on-truestudio/lib/STM32F30x_StdPeriph_Driver/inc
+/home/asalnikov/src/stm32f3-discovery-template-on-truestudio/lib/Utilities
